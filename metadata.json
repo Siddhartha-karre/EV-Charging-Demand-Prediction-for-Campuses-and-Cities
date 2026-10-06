@@ -1,0 +1,6 @@
+{
+  "name": "EV Demand & Station Placement Planner",
+  "description": "Predict EV charging demand by zone and hour, and optimize charging station placement for campuses and cities using Pega Blueprint BP-2538779-2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
